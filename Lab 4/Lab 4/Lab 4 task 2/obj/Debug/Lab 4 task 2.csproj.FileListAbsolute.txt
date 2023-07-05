@@ -1,7 +1,0 @@
-C:\Users\hp\source\repos\Lab 4 task 2\obj\Debug\Lab 4 task 2.csproj.AssemblyReference.cache
-C:\Users\hp\source\repos\Lab 4 task 2\obj\Debug\Lab 4 task 2.csproj.CoreCompileInputs.cache
-C:\Users\hp\source\repos\Lab 4 task 2\bin\Debug\Lab 4 task 2.exe.config
-C:\Users\hp\source\repos\Lab 4 task 2\bin\Debug\Lab 4 task 2.exe
-C:\Users\hp\source\repos\Lab 4 task 2\bin\Debug\Lab 4 task 2.pdb
-C:\Users\hp\source\repos\Lab 4 task 2\obj\Debug\Lab 4 task 2.exe
-C:\Users\hp\source\repos\Lab 4 task 2\obj\Debug\Lab 4 task 2.pdb
