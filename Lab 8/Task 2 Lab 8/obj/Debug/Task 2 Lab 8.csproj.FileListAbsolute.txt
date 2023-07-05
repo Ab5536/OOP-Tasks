@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Task 2 Lab 8\bin\Debug\Task 2 Lab 8.exe.config
+C:\Users\hp\source\repos\Task 2 Lab 8\bin\Debug\Task 2 Lab 8.exe
+C:\Users\hp\source\repos\Task 2 Lab 8\bin\Debug\Task 2 Lab 8.pdb
+C:\Users\hp\source\repos\Task 2 Lab 8\obj\Debug\Task 2 Lab 8.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Task 2 Lab 8\obj\Debug\Task 2 Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task 2 Lab 8\obj\Debug\Task 2 Lab 8.exe
+C:\Users\hp\source\repos\Task 2 Lab 8\obj\Debug\Task 2 Lab 8.pdb

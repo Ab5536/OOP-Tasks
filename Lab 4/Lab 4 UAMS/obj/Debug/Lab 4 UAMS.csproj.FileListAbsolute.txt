@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\Lab 4 UAMS\obj\Debug\Lab 4 UAMS.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab 4 UAMS\obj\Debug\Lab 4 UAMS.csproj.CoreCompileInputs.cache
